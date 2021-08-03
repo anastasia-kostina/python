@@ -1,0 +1,6 @@
+Smith 5000
+Jonhson 9000
+Li 18000
+Ivanov 25000
+Petrov 30000
+Shwartz 15000
